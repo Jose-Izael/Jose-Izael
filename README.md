@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao Meu Perfil
 
-<!--
-**Jose-Izael/Jose-Izael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando na [alura](https://www.alura.com.br)
+- Meu nome é José Izael
+- Estou desenvolvendo na linguagem javascript
+- Utilizo esse espaço para compartilhar e organizar meus projetos 
 
-Here are some ideas to get you started:
+### Voçê pode entrar em contato comigo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@jose.borges.junior@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/Van7Sfxc5MIAAAAC/gta-san-andreas-gta.gif)
